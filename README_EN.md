@@ -1,5 +1,3 @@
-Вот перевод текста на английский язык, оформленный в виде README-файла для GitHub.
-
 Technical Documentation: PT100 to RS485 Converter Module (Modbus RTU)
 Version: 1.0 (Revised)
 Application: Industrial temperature data acquisition, integration with automation systems (e.g., KC868-A16).
